@@ -1,8 +1,9 @@
 {
-  "app": "Tiny Tapeout tt05 e6940f63",
+  "app": "Tiny Tapeout tt05 98e7cb27",
   "repo": "https://github.com/splinedrive/KianV_rv32ia_uLinux_SoC",
-  "commit": "78f2bf1d2f72fff22c8710043218966784df4d27",
-  "workflow_url": "https://github.com/splinedrive/KianV_rv32ia_uLinux_SoC/actions/runs/6643719714",
-  "sort_id": 1698006142794,
-  "openlane_version": "OpenLane 7e5a2e9fb274c0a100b4859a927adce7089455ff\n"
+  "commit": "b185d52b2515fdbb8f50568cbca2d663db4070fc",
+  "workflow_url": "https://github.com/splinedrive/KianV_rv32ia_uLinux_SoC/actions/runs/6760989866",
+  "sort_id": 1698004065742,
+  "openlane_version": "OpenLane 7e5a2e9fb274c0a100b4859a927adce7089455ff",
+  "power_gate": false
 }
